@@ -1,0 +1,3 @@
+* https://github.com/codingwell/scala-guice/
+* http://knoldus.wordpress.com/2012/02/04/getting-started-with-mongodb-using-scala/
+* http://blog.knoldus.com/2012/02/06/using-mongodb-in-scala-with-salat/
